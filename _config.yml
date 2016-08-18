@@ -1,0 +1,28 @@
+name: PicturesNotPeople
+favicon: null
+layout_spectrum: 0.02289227768778801
+typography_spectrum: 0.8728134378325194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6395949148572981
+  lightness: 0.0009874938987195492
+  saturation: 0.7833995779510587
+  rhythmicContrast: 0.45400527003221214
+purpose: []
